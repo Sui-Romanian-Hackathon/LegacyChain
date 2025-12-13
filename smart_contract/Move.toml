@@ -1,0 +1,9 @@
+[package]
+name = "SUI_dms_proj"
+version = "1.0"   
+edition = "2024"
+
+[dependencies]
+
+[addresses]
+SUI_dms_proj = "0x0"
